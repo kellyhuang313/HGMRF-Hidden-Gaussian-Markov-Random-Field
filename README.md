@@ -1,1 +1,1 @@
-# HMGRF-Hidden-Markov-Gaussian-Random-Field-
+# HGMRF-Hidden-Gaussian-Markov-Random-Field
